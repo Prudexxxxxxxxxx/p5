@@ -38,8 +38,8 @@
 /* ------------------------- скрыть содержимое вкладки, добавьте следующий CSS:---------------------------------- */
   .tabcontent {
     animation: fadeEffect 2s; /* Эффект затухания занимает 1 секунду */
-    font-weight: 700;
-    font-size: 100%;
+    font-weight: 400;
+    font-size: 40px;
     max-width: 100%;
     align-items: center;
     text-align: center;
@@ -47,9 +47,10 @@
   }
 
   .tablinks{
-    font-size: 100%;
-    font-weight: 700;
+    font-size: 40px;
+    font-weight: 400;
 }
+
 
 .okraska{
     display:flex ;
