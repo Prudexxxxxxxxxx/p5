@@ -2,6 +2,7 @@
     display:flex ;
     align-items: center;
     justify-content: space-evenly;
+/*      font-size: 3rem; */
     overflow: hidden;
    
   }
@@ -39,7 +40,7 @@
   .tabcontent {
     animation: fadeEffect 2s; /* Эффект затухания занимает 1 секунду */
     font-weight: 400;
-    font-size: 40px;
+    font-size: 3rem;
     max-width: 100%;
     align-items: center;
     text-align: center;
@@ -47,7 +48,7 @@
   }
 
   .tablinks{
-    font-size: 40px;
+    font-size: 3rem;
     font-weight: 400;
 }
 
